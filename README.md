@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Kamal&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20engineering%20student%20%C2%B7%20Halden&descAlignY=55&descSize=18" />
+<img width="100%" src="header.svg" alt="Terminal with Kamal and his cat" />
 
 <p align="center">
   <a href="https://x.com/potential_dev">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/KamalPixel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+ChessNextDoor+%E2%99%9F%EF%B8%8F;Building+AI+learning+games+%40+Leqtio+%F0%9F%8E%AE;Shipping+client+sites+%40+verkstedweb.no+%F0%9F%9A%80;Stripe+%2B+Cloudflare+Workers+%2B+D1+%E2%9A%A1;Computer+Engineering+student+%40+H%C3%98+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Building+ChessNextDoor+%E2%99%9F%EF%B8%8F;Building+AI+learning+games+%40+Leqtio+%F0%9F%8E%AE;Shipping+client+sites+%40+verkstedweb.no+%F0%9F%9A%80;Stripe+%2B+Cloudflare+Workers+%2B+D1+%E2%9A%A1;Computer+Engineering+student+%40+H%C3%98+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -100,4 +100,4 @@ I moved the backend from PHP/MySQL to **TypeScript on Cloudflare Workers + D1**.
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:11151c,100:f4a261&height=6" />
