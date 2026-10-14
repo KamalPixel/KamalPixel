@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Kamal&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20engineering%20student%20%C2%B7%20Halden&descAlignY=72&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Kamal&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20engineering%20student%20%C2%B7%20Halden&descAlignY=55&descSize=18" />
+
+<p align="center">
+  <a href="https://x.com/potential_dev">
+    <img src="https://pbs.twimg.com/profile_images/2102061424579088384/2qKeUgjg_400x400.jpg" width="120" alt="Kamal on X" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/KamalPixel">
@@ -9,12 +15,14 @@
 <p align="center">
   <a href="https://leqtio.dev"><img src="https://img.shields.io/badge/Leqtio-leqtio.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://verkstedweb.no"><img src="https://img.shields.io/badge/verkstedweb.no-agency-0f172a?style=for-the-badge&logo=cloudflare&logoColor=F38020" /></a>
+  <a href="https://www.linkedin.com/in/kamal-mahad-317191308/"><img src="https://img.shields.io/badge/LinkedIn-Kamal_Mahad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/potential_dev"><img src="https://img.shields.io/badge/X-@potential__dev-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:kamash02@outlook.com"><img src="https://img.shields.io/badge/Say_hi-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
 
 ```ts
 const kamal = {
-  location: "Østfold, Norway 🇳🇴",
+  location: "Østfold, Norway",
   studying: "Computer Engineering @ HiØ",
   building: ["ChessNextDoor", "Leqtio", "verkstedweb.no"],
   currentlyLearning: ["Software testing", "Discrete math"],
@@ -74,7 +82,7 @@ I moved the backend from PHP/MySQL to **TypeScript on Cloudflare Workers + D1**.
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,php,cpp" />
 </p>
 
 **Frameworks & tools**
@@ -84,10 +92,6 @@ I moved the backend from PHP/MySQL to **TypeScript on Cloudflare Workers + D1**.
 </p>
 
 ## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalPixel&bg_color=0f172a&color=93c5fd&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
 
 <p align="center">
   <picture>
