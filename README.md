@@ -23,10 +23,10 @@
 ```ts
 const kamal = {
   location: "Østfold, Norway",
-  studying: "Computer Engineering @ HiØ",
+  studying: "Computer Engineering",
   building: ["ChessNextDoor", "Leqtio", "verkstedweb.no"],
   currentlyLearning: ["Software testing", "Discrete math"],
-  askMeAbout: ["Stripe idempotency", "Cloudflare Workers", "AI in the classroom"],
+  askMeAbout: ["Payment idempotency", "Cloudflare Workers", "AI in the classroom"],
 };
 ```
 
